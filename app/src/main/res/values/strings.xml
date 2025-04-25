@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewNetworker</string>
+    <string name="join_in">Join in!</string>
+    <string name="login_as_a_creator">Login as a creator</string>
+    <string name="todo">TODO</string>
+    <string name="enter_id">Enter ID</string>
+</resources>

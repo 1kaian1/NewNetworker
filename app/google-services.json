@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719068546007",
+    "project_id": "newnetworker-56eb7",
+    "storage_bucket": "newnetworker-56eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719068546007:android:cb390870f673b708f0c192",
+        "android_client_info": {
+          "package_name": "com.example.newnetworker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA88lCoo1M-wH_SZLxMqNAH98vx0x2FE5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
